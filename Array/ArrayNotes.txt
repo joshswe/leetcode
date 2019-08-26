@@ -1,0 +1,7 @@
+Question: 136. Single Number
+
+- Python Dictionary popitem() Method: https://www.w3schools.com/python/ref_dictionary_popitem.asp
+- Python Try Except: https://www.w3schools.com/python/python_try_except.asp
+- Dictionary pop: https://www.programiz.com/python-programming/methods/dictionary/pop
+
+- Bit Manipulation: https://www.tutorialspoint.com/python/bitwise_operators_example.htm
